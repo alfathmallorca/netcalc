@@ -41,11 +41,11 @@ Jalankan pembuatan repository hanya sekali. Jika repository `netcalc` sudah ada,
 3. Hubungkan URL repository yang dibuat:
 
 ```bash
-git remote add origin https://github.com/USERNAME/netcalc.git
+git remote add origin https://github.com/alfathmallorca/netcalc.git
 git push -u origin main
 ```
 
-Ganti `USERNAME` dengan akun pemilik repository. Jika remote `origin` sudah ada, periksa `git remote -v` sebelum mengubahnya.
+Jika remote `origin` sudah ada, periksa `git remote -v` sebelum mengubahnya.
 
 ## Setelah push
 

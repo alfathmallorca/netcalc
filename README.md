@@ -51,7 +51,7 @@ PHP bawaan XAMPP dapat digunakan jika versinya memenuhi persyaratan. MySQL XAMPP
 Clone repository ini menggunakan URL pada tombol **Code** di GitHub, lalu buka folder proyek. Contoh perintah clone:
 
 ```bash
-git clone <URL_REPOSITORY> netcalc
+git clone https://github.com/alfathmallorca/netcalc.git
 cd netcalc
 ```
 
